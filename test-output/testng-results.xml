@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Chrome Driver Launched to start Testing on Prime Pages]]>
+    </line>
+    <line>
+      <![CDATA[Primepages | Local business search engine is displayed as expected as head section]]>
+    </line>
+    <line>
+      <![CDATA[ is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[ is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[LOGIN is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[SIGN UP is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[CAREERS is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[+POST INFO is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[APPLY FOR AGENCY is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[FREE WEB PAGE is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[ is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[ is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[ is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[ is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Primepagesinfo - Login/Signup is displayed as expected as head section]]>
+    </line>
+    <line>
+      <![CDATA[ is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Have Account?  Login Here is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[ is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[ is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[ is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[ is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[ is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Primepagesinfo - Your Business Webpage is displayed as expected as head section]]>
+    </line>
+    <line>
+      <![CDATA[         Select Category                            Professions                            Services                            Commerce & Business                            Industries & Manufacturing                            Motor Vehicles                            Hotel & Travel                            Real Estate & Constructions                            Agriculture & Allied Fields                            Education                            Employment                            Entertainment & Sports                            Others                  is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[ Select  HeadingAgencies & WholesalersBooks & StationeryGold and Jewellery show roomsCommon UtilitiesComputer UnitsElectrical & Electronics ShowroomsFood & BeveragesGeneral & House HoldMarketsPharmacy & Surgical EquipmentsFashionWarehouses & Cold StoragesOther Commerce & Business UnitsBusiness Networking Organisation is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[ Select second Sub CategoryJewellery ShopsGold & Silver MerchantsGems, Pearls & DiamondsImitation Jewellery is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Select second Sub CategoryJewellery ShopsGold & Silver MerchantsGems, Pearls & DiamondsImitation Jewellery is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[ is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[ is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[ is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[ is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[         Select State               Andhra Pradesh               Telangana               Arunachal Pradesh               Andaman and Nicobar Islands               Assam               Bihar               Chandigarh               Chattisgarh               Dadra and Nagar Haveli               Daman and Diu               Goa               Delhi               Gujarat               Haryana               Himachal Pradesh               Jammu and Kashmir               Jharkhand               Karnataka               Kerala               Lakshadweep Islands               Madhya Pradesh               Maharashtra               Manipur               Meghalaya               Mizoram               Nagaland               Odisha               Pondicherry               Punjab               Rajasthan               Sikkim               Tamil Nadu               Tripura               Uttar Pradesh               Uttarakhand               West Bengal                is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[ Select  CityTirupatiAdoniAmalapuramAnakapalleAnantapur BapatlaBhimavaramBobbiliChilakalurupetChiralaChittoor CuddapahDharmavaramEluru GajuwakaGudivadaGudurGuntakalGunturHindupurKadiriKakinadaKallurKandukurKavaliKurnoolMachilipatnamMadanapalleMangalagiriMarkapurNandyalNarasaraopetNarsapuramNellore NuzvidOngole PalakolluPitapuramPonnurProddaturRajahmundryRamachandrapuramRayachotiRayadurgamSamarlakotaSattenapalleSrikakulamSrikalahastiTadepalligudemTadpatriTanukuTenaliTuniVinukondaVizianagaramYemmiganurPunganurPalamaneerNagariSalurParvathipuramNarsipatnamYelamanchiliPutturKuppamPuttaparthiGootyAtmakurKalyandurgVenkatagiriSullurupetaNaidupetaVijayawadavishakapatnam Kadapa AddankiSingarayakondaMacherlaPidugurallaRepalleE-GodavariKrishnaPrakashamW-GodavariKalikiriRailwayKodur  is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[ is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[  is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Primepagesinfo - Your Business Webpage is displayed as expected as head section]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="62644" started-at="2018-11-30T12:14:33Z" finished-at="2018-11-30T12:15:36Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="62644" started-at="2018-11-30T12:14:33Z" finished-at="2018-11-30T12:15:36Z">
+      <class name="homePage.SignupAndLoginToPrimePages">
+        <test-method status="PASS" signature="VerifyHomePage()[pri:0, instance:homePage.SignupAndLoginToPrimePages@574b560f]" name="VerifyHomePage" duration-ms="62612" started-at="2018-11-30T17:44:33Z" finished-at="2018-11-30T17:45:36Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Chrome Driver Launched to start Testing on Prime Pages]]>
+            </line>
+            <line>
+              <![CDATA[Primepages | Local business search engine is displayed as expected as head section]]>
+            </line>
+            <line>
+              <![CDATA[ is Displayed]]>
+            </line>
+            <line>
+              <![CDATA[ is Displayed]]>
+            </line>
+            <line>
+              <![CDATA[LOGIN is Displayed]]>
+            </line>
+            <line>
+              <![CDATA[SIGN UP is Displayed]]>
+            </line>
+            <line>
+              <![CDATA[CAREERS is Displayed]]>
+            </line>
+            <line>
+              <![CDATA[+POST INFO is Displayed]]>
+            </line>
+            <line>
+              <![CDATA[APPLY FOR AGENCY is Displayed]]>
+            </line>
+            <line>
+              <![CDATA[FREE WEB PAGE is Displayed]]>
+            </line>
+            <line>
+              <![CDATA[ is Displayed]]>
+            </line>
+            <line>
+              <![CDATA[ is Displayed]]>
+            </line>
+            <line>
+              <![CDATA[ is Displayed]]>
+            </line>
+            <line>
+              <![CDATA[ is Displayed]]>
+            </line>
+            <line>
+              <![CDATA[Primepagesinfo - Login/Signup is displayed as expected as head section]]>
+            </line>
+            <line>
+              <![CDATA[ is Displayed]]>
+            </line>
+            <line>
+              <![CDATA[Have Account?  Login Here is Displayed]]>
+            </line>
+            <line>
+              <![CDATA[ is Displayed]]>
+            </line>
+            <line>
+              <![CDATA[ is Displayed]]>
+            </line>
+            <line>
+              <![CDATA[ is Displayed]]>
+            </line>
+            <line>
+              <![CDATA[ is Displayed]]>
+            </line>
+            <line>
+              <![CDATA[ is Displayed]]>
+            </line>
+            <line>
+              <![CDATA[Primepagesinfo - Your Business Webpage is displayed as expected as head section]]>
+            </line>
+            <line>
+              <![CDATA[         Select Category                            Professions                            Services                            Commerce & Business                            Industries & Manufacturing                            Motor Vehicles                            Hotel & Travel                            Real Estate & Constructions                            Agriculture & Allied Fields                            Education                            Employment                            Entertainment & Sports                            Others                  is Displayed]]>
+            </line>
+            <line>
+              <![CDATA[ Select  HeadingAgencies & WholesalersBooks & StationeryGold and Jewellery show roomsCommon UtilitiesComputer UnitsElectrical & Electronics ShowroomsFood & BeveragesGeneral & House HoldMarketsPharmacy & Surgical EquipmentsFashionWarehouses & Cold StoragesOther Commerce & Business UnitsBusiness Networking Organisation is Displayed]]>
+            </line>
+            <line>
+              <![CDATA[ Select second Sub CategoryJewellery ShopsGold & Silver MerchantsGems, Pearls & DiamondsImitation Jewellery is Displayed]]>
+            </line>
+            <line>
+              <![CDATA[Select second Sub CategoryJewellery ShopsGold & Silver MerchantsGems, Pearls & DiamondsImitation Jewellery is Displayed]]>
+            </line>
+            <line>
+              <![CDATA[ is Displayed]]>
+            </line>
+            <line>
+              <![CDATA[ is Displayed]]>
+            </line>
+            <line>
+              <![CDATA[ is Displayed]]>
+            </line>
+            <line>
+              <![CDATA[ is Displayed]]>
+            </line>
+            <line>
+              <![CDATA[         Select State               Andhra Pradesh               Telangana               Arunachal Pradesh               Andaman and Nicobar Islands               Assam               Bihar               Chandigarh               Chattisgarh               Dadra and Nagar Haveli               Daman and Diu               Goa               Delhi               Gujarat               Haryana               Himachal Pradesh               Jammu and Kashmir               Jharkhand               Karnataka               Kerala               Lakshadweep Islands               Madhya Pradesh               Maharashtra               Manipur               Meghalaya               Mizoram               Nagaland               Odisha               Pondicherry               Punjab               Rajasthan               Sikkim               Tamil Nadu               Tripura               Uttar Pradesh               Uttarakhand               West Bengal                is Displayed]]>
+            </line>
+            <line>
+              <![CDATA[ Select  CityTirupatiAdoniAmalapuramAnakapalleAnantapur BapatlaBhimavaramBobbiliChilakalurupetChiralaChittoor CuddapahDharmavaramEluru GajuwakaGudivadaGudurGuntakalGunturHindupurKadiriKakinadaKallurKandukurKavaliKurnoolMachilipatnamMadanapalleMangalagiriMarkapurNandyalNarasaraopetNarsapuramNellore NuzvidOngole PalakolluPitapuramPonnurProddaturRajahmundryRamachandrapuramRayachotiRayadurgamSamarlakotaSattenapalleSrikakulamSrikalahastiTadepalligudemTadpatriTanukuTenaliTuniVinukondaVizianagaramYemmiganurPunganurPalamaneerNagariSalurParvathipuramNarsipatnamYelamanchiliPutturKuppamPuttaparthiGootyAtmakurKalyandurgVenkatagiriSullurupetaNaidupetaVijayawadavishakapatnam Kadapa AddankiSingarayakondaMacherlaPidugurallaRepalleE-GodavariKrishnaPrakashamW-GodavariKalikiriRailwayKodur  is Displayed]]>
+            </line>
+            <line>
+              <![CDATA[ is Displayed]]>
+            </line>
+            <line>
+              <![CDATA[  is Displayed]]>
+            </line>
+            <line>
+              <![CDATA[Primepagesinfo - Your Business Webpage is displayed as expected as head section]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- VerifyHomePage -->
+      </class> <!-- homePage.SignupAndLoginToPrimePages -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
