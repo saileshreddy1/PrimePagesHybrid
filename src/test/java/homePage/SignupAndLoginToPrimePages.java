@@ -25,6 +25,7 @@ public class SignupAndLoginToPrimePages extends Root {
 		objSLPP.createFreeWebPage("Commerce & Business", "Gold and Jewellery show rooms", "Jewellery Shops","Jewellery Shops", "SachinTendulkar", "APOODGHJBT12345", "number10@gmail.com", "9988774455", "Andhra Pradesh", "Tirupati", "Tirupati", "Tirupati is the city where user can get the gold");
 		objSLPP.verifyTitleofThePage("Primepagesinfo - Your Business Webpage");
 		Thread.sleep(5000);
+//		Close browser
 		objBrow.quitBrowser();
 	
 	}
